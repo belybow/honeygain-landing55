@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="開始賺取被動收入，加入 Honeygain！分享你的網絡流量賺取額外收入。">
+    <meta name="keywords" content="Honeygain, 被動收入, 賺錢應用, 網絡流量">
+    <meta name="author" content="你的名字">
+    <title>開始賺取額外收入 - Honeygain</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fff;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #007bff;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        .container {
+            padding: 20px;
+        }
+        h2 {
+            color: #007bff;
+        }
+        .cta-button {
+            background-color: #007bff;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            margin: 20px 0;
+        }
+        .cta-button:hover {
+            background-color: #0056b3;
+        }
+        footer {
+            background-color: #f1f1f1;
+            color: #777;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>開始賺取額外收入，加入 Honeygain！</h1>
+</header>
+
+<div class="container">
+    <h2>什麼是 Honeygain？</h2>
+    <p>Honeygain 是一個讓你分享網絡流量來賺取被動收入的應用程式。只需安裝並運行它，你就可以開始賺取收入，並在不使用設備的時候賺取額外的金錢。</p>
+    
+    <h2>如何開始使用 Honeygain？</h2>
+    <ul>
+        <li><strong>步驟 1：</strong> 下載並安裝 Honeygain 應用程式。</li>
+        <li><strong>步驟 2：</strong> 登錄並開始分享你的網絡流量。</li>
+        <li><strong>步驟 3：</strong> 賺取被動收入，隨時可以提現。</li>
+    </ul>
+    
+    <h2>立即註冊，開始賺錢！</h2>
+    <a href="https://r.honeygain.me/DUPIB19EBD" class="cta-button" target="_blank">立即註冊並開始賺錢</a>
+</div>
+
+<footer>
+    <p>© 2025 你的名字 - 所有權利保留</p>
+</footer>
+
+</body>
+</html>
